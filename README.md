@@ -4,29 +4,32 @@ As an ICT student at Zuyd University of Applied Sciences, I have developed a str
 I enjoy variety, love learning new things, and thrive in collaborative environments where we can build something to be genuinely proud of. Driven by curiosity and perseverance, I continuously work on improving myself and actively contribute to the success of the team.
 
 ## 🛠️ Skills
-Cloud Architectuur & Security
-- Azure Networking: VNet, Subnets, Network Security Groups (NSGs), VPN Gateway
-- Cloud Security: Zero Trust Architectuur, Defense-in-Depth, Identity & Access Management (IAM)
-- Role-Based Access Control (RBAC): Principle of Least Privilege (PoLP)
-- Infrastructure as a Service (IaaS): Virtual Machines, Load Balancing, Storage Accounts
-- Web Application Firewall (WAF): OWASP top 10
-- Compliance: AVG (GDPR), NEN 7510, ISO 27001/27002
+**Cloud Architectuur & Security**
+- Azure Networking: `VNet`, `Subnets`, `Network Security Groups (NSGs)`, `VPN Gateway`
+- Cloud Security: `Zero Trust Architectuur`, `Defense-in-Depth`, `Identity & Access Management (IAM)`
+- Role-Based Access Control (RBAC)
+- Principle of Least Privilege (PoLP)
+- Infrastructure as a Service (IaaS): `Virtual Machines`, `Load Balancing`, `Storage Accounts`
+- Web Application Firewall (WAF) `OWASP top-10`
+- Compliance: `AVG (GDPR)`, `NEN 7510`, `ISO 27001/27002`
 
-DevOps & Automation
-- Infrastructure as Code (IaC): Terraform
-- Scripting: PowerShell, Azure CLI
+**DevOps & Automation**
+- Infrastructure as Code (IaC): `Terraform`
+- Scripting: `PowerShell`, `Azure CLI`
 
-Project Management & Soft Skills
+**Project Management & Soft Skills**
 - Project Management
 - Team Leadership
 - Stakeholder Communication
 
 ## 📦 Projects
-- **DeliZuyd Data Warehouse** – OLTP to OLAP migration in Azure   
-- **Azure ADF Pipelines** – Ingestion, transformation and load pipelines
-- **Analyse Security Risks** - Analyse, risk management, compliancy
-- **Secure Azure Infrastructure** - Least privilige, deny by defualt, zero-trust principle
+- **DeliZuyd Data Warehouse** – `OLTP`, `OLAP`, `Azure `  
+- **Azure ADF Pipelines** – `Ingestion`, `transformation`, `load pipelines`
+- **Analyse Security Risks** - `Analyse`, `risk management`, `compliancy` You can also find this project on my [LinkedIn profile](https://www.linkedin.com/in/martijn-theeuwen/)
+- **Secure Azure Infrastructure** - `Least privilige`, `deny by defualt`, `zero-trust principle` You can also find this project on my [LinkedIn profile](https://www.linkedin.com/in/martijn-theeuwen/)
 
-## 📫 Contact
+## 📫 I'm always open to connecting!
+I enjoy diving into anything related to cybersecurity, scalable systems, and cloud engineering. Happy to connect and discuss!
+
 LinkedIn: https://www.linkedin.com/in/martijn-theeuwen/
 E-mail: martijn.theeuwen@gmail.com
