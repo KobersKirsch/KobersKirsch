@@ -29,7 +29,7 @@ I enjoy variety, love learning new things, and thrive in collaborative environme
 - **Secure Azure Infrastructure** - `Least privilige`, `deny by defualt`, `zero-trust principle` You can also find this project on my [LinkedIn profile](https://www.linkedin.com/in/martijn-theeuwen/)
 
 ## 📫 I'm always open to connecting!
-I enjoy diving into anything related to cybersecurity, scalable systems, and cloud engineering. Happy to connect and discuss!
+I enjoy diving into anything related to cybersecurity, scalable systems, cloud engineering and software engineering. Happy to connect and discuss!
 
 LinkedIn: https://www.linkedin.com/in/martijn-theeuwen/
 E-mail: martijn.theeuwen@gmail.com
